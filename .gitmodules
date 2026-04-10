@@ -1,0 +1,3 @@
+[submodule "submodules/ts-notes"]
+	path = submodules/ts-notes
+	url = git@github.com:tianjian-sky/ts-notes.git
