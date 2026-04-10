@@ -2,6 +2,8 @@
 defineProps<{
   msg: string
 }>()
+const r = useRoute()
+console.log(r)
 </script>
 
 <template>
